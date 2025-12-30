@@ -1,0 +1,18 @@
+{
+  "plaintiff_name": "umar clark",
+  "plaintiff_address": "1714 old federal rd",
+  "plaintiff_email": "info@gmail.com",
+  "city_state": "atlanta, ga",
+  "court": "Northern district of Ga",
+  "defendants": [
+    "AMERICAN EXPRESS"
+  ],
+  "account_last4": "3777",
+  "violation": "On june 15th  2025 Inoticed an innacurate date of first deliqnuency on my consumer reports and ",
+  "dispute_date": "06/16/2025",
+  "tracking_number": "7574837383837",
+  "cra_response": "Verified ",
+  "furnisher_action": "Verified and nothing hanged",
+  "damages_amount": "17,000",
+  "damages_detail": "Credit denials- $15,000"
+}

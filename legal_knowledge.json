@@ -1,0 +1,69 @@
+{
+  "FDCPA": {
+    "summary": "The Fair Debt Collection Practices Act (15 U.S.C. §§ 1692–1692p) protects consumers from abusive, unfair, and deceptive debt collection practices by debt collectors.",
+    "key_sections": {
+      "1692c": "Prohibits contacting consumers at inconvenient times or places.",
+      "1692e": "Bans false or misleading representations.",
+      "1692d": "Prohibits harassment or abuse, such as threats or obscene language.",
+      "1692f": "Bans unfair practices, like collecting unauthorized fees.",
+      "1692g": "Requires debt collectors to validate debts upon request.",
+      "1692j": "Prohibits false debt representations."
+    },
+    "case_law": {
+      "Heintz v. Jenkins (1994)": "Allows FDCPA suits against lawyers collecting debts."
+    }
+  },
+  "FRCP_Rule_12": {
+    "summary": "Rule 12 governs defenses and objections, such as motions to dismiss for lack of jurisdiction or failure to state a claim.",
+    "key_points": {
+      "12(b)(6)": "Motion to dismiss for failure to state a claim upon which relief can be granted."
+    }
+  },
+  "FCRA": {
+    "summary": "The Fair Credit Reporting Act (15 U.S.C. §§ 1681–1681x) promotes the accuracy, fairness, and privacy of consumer information used in credit reports by consumer reporting agencies.",
+    "key_sections": {
+      "1681b": "Defines permissible purposes for accessing consumer reports.",
+      "1681e": "Requires compliance procedures to ensure accuracy.",
+      "1681i": "Outlines procedures for disputing inaccurate information.",
+      "1681s-2(b)": "Requires furnishers to investigate and correct inaccurate information reported to credit agencies after receiving a consumer dispute notice."
+    },
+    "case_law": {
+      "Safeco v. Burr (2007)": "Defines willful noncompliance."
+    }
+  },
+  "TILA": {
+    "summary": "The Truth in Lending Act (15 U.S.C. §§ 1601–1667f) requires lenders to disclose credit terms and costs to consumers, protecting against inaccurate and unfair credit billing practices.",
+    "key_sections": {
+      "1638": "Disclosures for closed-end credit transactions (e.g., loans).",
+      "1639": "Requirements for certain high-cost mortgages.",
+      "1602": "Defines key terms like 'creditor' and 'finance charge'."
+    },
+    "case_law": {
+      "Mourning v. Family Publications (1973)": "Upholds TILA disclosure requirements."
+    }
+  },
+  "ECOA": {
+    "summary": "The Equal Credit Opportunity Act (15 U.S.C. §§ 1691–1691f) prohibits credit discrimination.",
+    "key_sections": {
+      "1691(a)": "Anti-discrimination rule.",
+      "1691c": "Enforcement by agencies."
+    },
+    "case_law": {
+      "Lewis v. ACB Business Services (1996)": "Expands ECOA to debt collectors."
+    }
+  },
+  "CROA": {
+    "summary": "The Credit Repair Organizations Act (15 U.S.C. §§ 1679–1679j) regulates credit repair services.",
+    "key_sections": {
+      "1679b": "Prohibits deceptive practices.",
+      "1679e": "Contract disclosure requirements."
+    }
+  },
+  "FRCP_Rule_56": {
+    "summary": "Rule 56 governs summary judgment in federal courts.",
+    "key_points": {
+      "56(c)": "Motion with supporting evidence.",
+      "56(f)": "Affidavit for more discovery."
+    }
+  }
+}

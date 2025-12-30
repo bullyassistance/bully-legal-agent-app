@@ -1,0 +1,26 @@
+{
+  "plaintiff_name": "umar clark",
+  "plaintiff_address": "1550 crumbly ln",
+  "plaintiff_email": "info@gmail.com",
+  "city_state": "shorter, al",
+  "court": "northern district of al",
+  "defendants": [
+    "american express"
+  ],
+  "account_last4": "56644",
+  "violation": "i DIPSUTED IT FOR FAULTY PAYMENT HISTORY ON A CHARGE OFF AND NOTHING WAS CHANGED ",
+  "cra_list": "Experian, transunion and equiafx",
+  "dispute_date": "06/15/2025",
+  "tracking_number": "57483838737373",
+  "acdv_id": "",
+  "cra_response": "Verified ",
+  "furnisher_letter_sent": "yes",
+  "furnisher_letter_date": "07/01/2025",
+  "furnisher_letter_tracking": "477377373",
+  "furnisher_requested_items": "Method and procedures they used to verify and their investigation notes.",
+  "furnisher_response": "With account statements and no reference to what i asked for ",
+  "denials": "Denied a home loan",
+  "damages_amount": "17000",
+  "damages_detail": "",
+  "service_addresses": ""
+}
